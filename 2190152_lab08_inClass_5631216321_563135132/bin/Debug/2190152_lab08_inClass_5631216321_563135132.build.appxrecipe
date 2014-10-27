@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KUNNAPATRUN45DC</Machine>
+    <WindowsUser>KunnapatRungruangsat</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a929e308-4ebe-468d-8b41-05b13ac62dc3</PackageIdentityName>
+    <IntermediateOutputPath>\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\bin\Debug\2190152_lab08_inClass_5631216321_563135132.exe">
+      <PackagePath>2190152_lab08_inClass_5631216321_563135132.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\bannerpic.png">
+      <PackagePath>Assets\bannerpic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\Clothing-Hanger-icon.png">
+      <PackagePath>Assets\Clothing-Hanger-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\bin\Debug\InfoPage.xbf">
+      <PackagePath>InfoPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\bin\Debug\2190152_lab08_inClass_5631216321_563135132.xr.xml">
+      <PackagePath>2190152_lab08_inClass_5631216321_563135132.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Visual Studio 2013\Projects\2190152_lab08_inClass_5631216321_563135132\2190152_lab08_inClass_5631216321_563135132\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
